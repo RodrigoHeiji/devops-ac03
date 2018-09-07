@@ -16,5 +16,5 @@ else:
                     erroInicializar = True
 if erroInicializar:
    sys.exit(1)
-else
+else:
    sys.exit(0)	
